@@ -1,7 +1,7 @@
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
-load_dotenv()
+#load_dotenv()
 
 API_ID = int(os.getenv("API_ID", "22002589"))
 API_HASH = os.getenv("API_HASH", "7238067a3532e1501f726a04cdda9f60")
