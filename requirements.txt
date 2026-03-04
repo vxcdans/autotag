@@ -1,0 +1,4 @@
+pyrogram-navy
+tgcrypto
+python-dotenv
+APScheduler==3.10.4
